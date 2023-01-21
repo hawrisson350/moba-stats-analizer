@@ -33,7 +33,9 @@
                             <img src="<?php echo $row['imagen']; ?>" />
                         </div>
                         <div class="champname">
+
                             <?php echo $row['nombre']; ?>
+
                         </div>
                     </div>
                     <?php
